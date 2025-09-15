@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "digital arrest",
+    "arrest warrant",
+    "immediate payment",
+    "escrow",
+    "verify now",
+    "kyc now",
+    "suspended",
+    "threat",
+    "legal action",
+    "pan is flagged",
+    "compromised",
+    "refund deposit",
+    "cyber cell",
+    "law enforcement"
+  ],
+  "urgency": [
+    "immediately",
+    "now",
+    "within 10 minutes",
+    "urgent",
+    "final notice",
+    "deadline",
+    "last warning"
+  ],
+  "suspiciousDomains": ["paytm-secure.co.in", "verify-secure-bank.com"]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vd1",
+    "channel": "video",
+    "platform": "whatsapp",
+    "durationSec": 60,
+    "transcript": "I am ACP Sharma speaking from Delhi Police. Your Aadhar is compromised. Pay a refundable security deposit to avoid a digital arrest.",
+    "deepfakeIndicators": {
+      "blinkRatePerMin": 3,
+      "lipSyncScore": 0.48
+    },
+    "timestamp": "2025-09-13T07:40:00Z",
+    "legitimate": false
+  },
+  {
+    "id": "vd2",
+    "channel": "video",
+    "platform": "zoom",
+    "durationSec": 300,
+    "transcript": "Quarterly compliance review meeting starting now. Agenda: audit observations and next steps.",
+    "deepfakeIndicators": {
+      "blinkRatePerMin": 18,
+      "lipSyncScore": 0.92
+    },
+    "timestamp": "2025-09-13T08:00:00Z",
+    "legitimate": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "v1",
+    "channel": "voice",
+    "callerId": "+91-140-1234567",
+    "durationSec": 180,
+    "callCount24h": 3,
+    "transcript": "This is Officer Mehta from RBI. Your PAN is flagged in a cybercrime case. If you don't follow instructions now, a digital arrest will be issued. Transfer your funds to a secure escrow immediately for verification.",
+    "spoofedCallerId": true,
+    "timestamp": "2025-09-12T09:15:00Z",
+    "legitimate": false
+  },
+  {
+    "id": "v2",
+    "channel": "voice",
+    "callerId": "+91-22-26576543",
+    "durationSec": 95,
+    "callCount24h": 1,
+    "transcript": "Hi, this is your bank's relationship manager. Calling to confirm if you made a transaction of Rs. 1,200 yesterday. No action needed, just confirming.",
+    "spoofedCallerId": false,
+    "timestamp": "2025-09-12T11:30:00Z",
+    "legitimate": true
+  }
+]
